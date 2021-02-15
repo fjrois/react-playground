@@ -1,7 +1,6 @@
 import './App.css';
 import Blog from './components/Blog';
 import FirstComponent from './components/FirstComponent';
-import Typer from './components/Typer';
 import React from 'react';
 
 class App extends React.Component {
